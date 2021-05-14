@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13868" started-at="2021-05-13T04:44:28Z" finished-at="2021-05-13T04:44:42Z">
+  <suite name="Default suite" duration-ms="9556" started-at="2021-05-13T04:55:35Z" finished-at="2021-05-13T04:55:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13868" started-at="2021-05-13T04:44:28Z" finished-at="2021-05-13T04:44:42Z">
+    <test name="Default test" duration-ms="9556" started-at="2021-05-13T04:55:35Z" finished-at="2021-05-13T04:55:45Z">
       <class name="elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="setUp" is-config="true" duration-ms="6415" started-at="2021-05-13T10:14:28Z" finished-at="2021-05-13T10:14:35Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="setUp" is-config="true" duration-ms="6121" started-at="2021-05-13T10:25:35Z" finished-at="2021-05-13T10:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="Flipkart()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="Flipkart" duration-ms="3288" started-at="2021-05-13T10:14:35Z" finished-at="2021-05-13T10:14:38Z">
+        <test-method status="PASS" signature="Flipkart()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="Flipkart" duration-ms="3277" started-at="2021-05-13T10:25:41Z" finished-at="2021-05-13T10:25:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Flipkart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="tearDown" is-config="true" duration-ms="4141" started-at="2021-05-13T10:14:38Z" finished-at="2021-05-13T10:14:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:elementsavailableinthewebpage_Test.Elementsavailableinthewebpage_Test1@3f49dace]" name="tearDown" is-config="true" duration-ms="132" started-at="2021-05-13T10:25:45Z" finished-at="2021-05-13T10:25:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
